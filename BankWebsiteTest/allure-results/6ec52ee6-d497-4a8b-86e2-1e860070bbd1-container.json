@@ -1,0 +1,1 @@
+{"uuid":"6ec52ee6-d497-4a8b-86e2-1e860070bbd1","name":"paraBankWebsite.WebsiteloginRegister","children":["df5aca88-defc-4c52-8b29-0fe835e65839"],"befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1727067760274,"stop":1727067767483}],"afters":[],"start":1727067760233,"stop":1727067767856}
